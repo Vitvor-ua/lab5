@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab5","l":"DatabaseMediator"},{"p":"lab5","l":"RelationalTable"},{"p":"lab5","l":"Table"},{"p":"lab5","l":"TableMediator"}];updateSearchResults();
